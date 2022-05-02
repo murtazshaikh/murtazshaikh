@@ -5,8 +5,8 @@ Learning Frontend
 -----------------
 
 * 🌍  I'm based in Mumbai
-* 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on interesting projects.
+* 🧠  Learning Javascript
+* 🤝  Open to collaborating on interesting projects.
 
 ### Skills
 
