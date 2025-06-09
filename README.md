@@ -1,4 +1,6 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Murtaza Shaikh</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Murtaza
+===============================================================================================================================
+
 <h3 align="center">A passionate Frontend Developer from Mumbai</h3>
 
 ---
@@ -14,9 +16,9 @@
 ### 💻 Skills
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="40" alt="Sass" />
@@ -35,8 +37,12 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/murtazshaikh" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://murtaza-portfolio-2209.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -44,8 +50,6 @@
 ### 📊 GitHub Stats
 
 [![Murtaza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murtazshaikh&show_icons=true&theme=github_dark)](https://github.com/murtazshaikh)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazshaikh&layout=compact&theme=github_dark)](https://github.com/murtazshaikh)
 
 ---
 
